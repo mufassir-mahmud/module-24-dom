@@ -1,0 +1,16 @@
+h1{
+    color: lightcoral;
+}
+#fruits-title{
+    color: black;
+}
+.places{
+    color: #030202;
+}
+
+.fruits-container li{
+    color: rgb(0, 61, 61);
+}
+.yellow-bg{
+    background-color: yellowgreen;
+}
